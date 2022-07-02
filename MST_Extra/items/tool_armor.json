@@ -56,7 +56,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "gasfilter_m": 100 } } ],
     "ammo": [ "gasfilter_m" ],
     "use_action": "GASMASK",
-    "flags": [ "OUTER" ],
+    "flags": [ "OUTER", "SOFT" ],
     "armor": [ { "encumbrance": 20, "coverage": 100, "covers": [ "head", "mouth", "eyes" ] } ]
   },
   {
